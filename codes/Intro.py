@@ -37,7 +37,11 @@ print(word.find('el'))
 statement = 'We love {} {}.'
 print(statement.format('data','analysis'))
 
+#****************列表是可变对象，可以存储多个数据*************
 
+
+list1 = [11,22,33]
+print(list1)
 
 
 
